@@ -2,27 +2,27 @@
 Satelite en JAVA con constructores varía coordenadas: altura, longitud y latitud con constructores..
 
 
-3.- Implementa una clase Satélite con los atributos enteros privados: meridiano, 
-    paralelo y distancia a la tierra. Haz los siguientes métodos:
+    3.- Implementa una clase Satélite con los atributos enteros privados: meridiano, 
+        paralelo y distancia a la tierra. Haz los siguientes métodos:
 
-  • Constructor por defecto que inicialice todos los parámetros a 0.
+      📌 Constructor por defecto que inicialice todos los parámetros a 0.
 
-  • Constructor que inicialice los valores de los atributos según 
-    tres valores pasados porparámetro.
+      📌 Constructor que inicialice los valores de los atributos según 
+        tres valores pasados porparámetro.
   
-  • Método printPosicion que imprima donde se encuentra localizado el satélite.
+      📌 Método printPosicion que imprima donde se encuentra localizado el satélite.
 
-  • Método variarAltura que reciba por parámetro un desplazamiento 
-    (positivo o negativo) que haga que el satélite varie su distancia a la Tierra.
+      📌 Método variarAltura que reciba por parámetro un desplazamiento 
+        (positivo o negativo) que haga que el satélite varie su distancia a la Tierra.
   
-  • Método variarPosicion que reciba dos parametros que permitan variar 
-    los atributos de posicion (meridiano y paralelo).
+      📌 Método variarPosicion que reciba dos parametros que permitan variar 
+        los atributos de posicion (meridiano y paralelo).
   
-  • Método enOrbita que devuelve un valor booleano que indique si el satélite 
-    está en Tierra (flase) o en Orbita (true). (Entendemos que está en la Tierra 
-    si la distancia es menor que 16000 metros).
+      📌 Método enOrbita que devuelve un valor booleano que indique si el satélite 
+        está en Tierra (flase) o en Orbita (true). (Entendemos que está en la Tierra 
+        si la distancia es menor que 16000 metros).
 
-    En el programa principal genera un objeto de tipo Satélite y prueba todos los métodos.
+        En el programa principal genera un objeto de tipo Satélite y prueba todos los métodos.
     
 ![31](https://user-images.githubusercontent.com/80227002/194773536-880a8857-d94f-418f-a4ea-72ef4cbdff04.png)
 
